@@ -1,0 +1,28 @@
+{
+  "name": "五十音冲刺 · 五十音小游戏",
+  "short_name": "五十音冲刺",
+  "description": "看假名选罗马音，3 分钟上手日语五十音。支持平假名、片假名与混合挑战。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./%E4%BA%94%E5%8D%81%E9%9F%B3%E5%86%B2%E5%88%BA.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0e17",
+  "theme_color": "#0b0e17",
+  "categories": ["education", "games"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
